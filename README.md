@@ -2,7 +2,7 @@
 
 Особистий сайт-портфоліо для Junior Data Analyst позиції. Односторінковий сайт, що зібрано з CV, GitHub та Tableau Public профілю — з описом навичок,  портфоліо-проєктів та шляху навчання.
 
-**Live site:** [https://svdom.github.io/data-analyst-portfolio/](https://svdom.github.io/data-analyst-portfolio/) *(після публікації через GitHub Pages)*
+**Live site:** [https://svdom.github.io/data-analyst-portfolio/](https://svdom.github.io/data-analyst-portfolio/) 
 
 ## Overview
 
