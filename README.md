@@ -1,6 +1,6 @@
 # Svitlana Domashenko — Portfolio Website
 
-Особистий сайт-портфоліо для Junior Data Analyst позиції. Односторінковий сайт, що зібрано з CV, GitHub та Tableau Public профілю — з описом навичок, шести портфоліо-проєктів та шляху навчання.
+Особистий сайт-портфоліо для Junior Data Analyst позиції. Односторінковий сайт, що зібрано з CV, GitHub та Tableau Public профілю — з описом навичок,  портфоліо-проєктів та шляху навчання.
 
 **Live site:** [https://svdom.github.io/data-analyst-portfolio/](https://svdom.github.io/data-analyst-portfolio/) *(після публікації через GitHub Pages)*
 
@@ -53,7 +53,7 @@ python3 -m http.server 8000
 
 ## How to Update Content
 
-Весь контент — прямо в HTML-розмітці, секціями:
+Весь контент — в HTML-розмітці, секціями:
 - Проєкти: блоки `<div class="project">` в секції `#projects`
 - Навички: списки `<ul class="skill-list">` в секції `#skills`
 - Контакти й посилання: пошук за `mailto:`, `github.com`, `linkedin.com`, `tableau.com`
